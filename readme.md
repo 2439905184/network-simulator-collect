@@ -2,3 +2,5 @@
 2. [krkr droid](https://www.bilibili.com/read/cv31805070/)
 3. [joiplayer](https://joiplay.org/)
 4. [ppsspp](https://joiplay.org/)
+5. [j2meloader](https://www.downkuai.com/android/142225.html)
+6. [KEmulator](https://www.pcsoft.com.cn/soft/176534.html)
