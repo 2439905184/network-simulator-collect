@@ -4,3 +4,4 @@
 4. [ppsspp](https://joiplay.org/)
 5. [j2meloader](https://www.downkuai.com/android/142225.html)
 6. [KEmulator](https://www.pcsoft.com.cn/soft/176534.html)
+7. [retroArch](https://www.retroarch.com/)
